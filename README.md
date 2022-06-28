@@ -2,5 +2,5 @@
 City Biulder Server
 # play
 ```
-play.k-minecraft.tk
+play-k-minecraft.tk
 ```
