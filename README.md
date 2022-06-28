@@ -1,2 +1,6 @@
-# tbkbedwars.tk
-The website and server are in the process of testing (Temporarily inactive)
+# k-minecraft
+City Biulder Server
+# play
+```
+play.k-minecraft.tk
+```
